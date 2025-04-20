@@ -1,0 +1,12 @@
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+spacy
+pyspellchecker
+textblob
+transformers
+wordcloud
+xgboost
+transformer
